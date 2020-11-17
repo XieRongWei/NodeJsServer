@@ -2,9 +2,10 @@
   "name": "node_js_server",
   "version": "1.0.0",
   "description": "first node js web server ",
-  "main": "start.js",
+  "main": "Start.js",
   "scripts": {
-    "test": "make test"
+    "test": "make test",
+    "start": "node Start.js"  
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/XieRongWei/NodeJsServer/issues"
   },
-  "homepage": "https://github.com/XieRongWei/NodeJsServer#readme"
+  "homepage": "https://github.com/XieRongWei/NodeJsServer#readme",
+  "node js learning files" : "https://www.runoob.com/nodejs/nodejs-http-server.html"
 }
